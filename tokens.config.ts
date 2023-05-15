@@ -5,7 +5,7 @@ export default defineTheme({
     body: {
       color: {
         value: {
-          dark: "white"
+          dark: "green"
         }
       }
     }
