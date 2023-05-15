@@ -13,7 +13,7 @@ export default defineTheme({
 
   media: {
     xs: {
-      value: "(min-width: 45px)"
+      value: "(min-width: 405px)"
     }
   }
 })
