@@ -5,9 +5,15 @@ export default defineTheme({
     body: {
       color: {
         value: {
-          dark: "green"
+          dark: "white"
         }
       }
+    }
+  },
+
+  media: {
+    xs: {
+      value: "(min-width: 45px)"
     }
   }
 })
